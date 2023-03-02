@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Methum. I do open source!" src="https://github.com/m3thum09/m3thum09/blob/main/Hello__I_m_Methum-removebg-preview.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Methum. I do open source!" src="https://github.com/m3thum09/m3thum09/blob/main/Hello_I'm_Methum.png" /></a></p>
 
 **About me**
 
