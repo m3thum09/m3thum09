@@ -20,16 +20,14 @@
 
 **Github Stats**
 
-| [![Methum's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3thum09&theme=graywhite&show_icons=true&border_radius=6.9&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m3thum09&theme=graywhite&hide_border=true&border_radius=6.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
+| [![Methum's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3thum09&theme=graywhite&show_icons=true&border_radius=6.9&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m3thum09&theme=graywhite&hide_border=false&border_radius=6.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
 | ------------- | ------------- |
 
 
-
-
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+<p align="center">
+<a href="https://fb.com/methum mandinu" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/187/187189.png" alt="methum mandinu" height="25" width="25" /></a>
+<a href="https://instagram.com/m3thum.09" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/4494/4494488.png" alt="methum mandinu" height="25" width="25" /></a>
+<a href="https://twitter.com/m3thum09" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3670/3670036.png" alt="methum mandinu" height="25" width="25" /></a>
+<a href="https://www.youtube.com/c/methum mandinu" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/187/187209.png" alt="methum mandinu" height="25" width="25" /></a>
+</p>
+<h6 align="center">Copyright © 2023 Methum Mandinu. All rights reserved.</h6>
