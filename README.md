@@ -38,7 +38,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 <h3 align="center">Stats</h3>
 
-[![Methum's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3thum09&theme=graywhite&show_icons=true&border_radius=6.9&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m3thum09&theme=graywhite&hide_border=false&border_radius=6.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+| [![Methum's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3thum09&theme=graywhite&show_icons=true&border_radius=6.9&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m3thum09&theme=graywhite&hide_border=false&border_radius=6.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
+| ------------- | ------------- |
+
 </div>
 
 <hr>
