@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">A front end developer from Sri Lanka</h3>
-<h5 align="center">Hi my name is Methum Mandinu, I'm a 20 Y/O engineering technology student and web developer based in the western province of Sri Lanka. I'm currently learning web development to become a full stack developer through self learning. I've been focusing on react.js these days. And I like to share what I know with web development enthusiasts around the world on my github profile, so I'm glad you learn something from it.</h5>
+<h5 align="center">Hi my name is Methum Mandinu, I'm a 20 Y/O engineering technology student and web developer based in the western province of Sri Lanka. I'm currently learning web development to become a full stack developer through self learning. I've been focusing on<br> react.js these days. And I like to share what I know with web development enthusiasts around the world on my github<br> profile, so I'm glad you learn something from it.</h5>
 
 <hr>
 
