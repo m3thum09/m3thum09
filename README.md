@@ -15,17 +15,16 @@
 <div align="center">
                 <br>
                     <div align="center">
-                     <a href="https://www.arduino.cc" target="blank"><img width="40" height="40" alt="arduino" src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667"></a>
-                    <a href="https://en.wikipedia.org/wiki/HTML5" target="blank"><img width="40" height="40" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a>
-                    <a href="https://en.wikipedia.org/wiki/CSS" target="blank"><img width="40" height="40" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a>
-                    <a href="https://www.javascript.com" target="blank"><img width="40" height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-                    <a href="https://nodejs.org" target="blank"><img width="40" height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
-                    <a href="https://www.linux.org/pages/download" target="blank"><img width="40" height="40" alt="linux" 
+                      <a href="https://en.wikipedia.org/wiki/HTML5" target="blank"><img width="40" height="40" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a>
+                      <a href="https://en.wikipedia.org/wiki/CSS" target="blank"><img width="40" height="40" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a>
+                      <a href="https://www.javascript.com" target="blank"><img width="40" height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
+                      <a href="https://nodejs.org" target="blank"><img width="40" height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
+                      <a href="https://www.linux.org/pages/download" target="blank"><img width="40" height="40" alt="linux" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
-                    <a href="https://www.python.org" target="blank"><img width="40" height="40" alt="python"
+                      <a href="https://www.python.org" target="blank"><img width="40" height="40" alt="python"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-                    <a href="https://reactjs.org" target="blank"><img width="40" height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
-               </div>
+                      <a href="https://reactjs.org" target="blank"><img width="40" height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
+                    </div>
 </div>
 
 <br>
