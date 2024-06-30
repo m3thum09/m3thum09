@@ -14,7 +14,7 @@
 
 <div align="center">
                 <br>
-                    <div align="center">
+                  <div align="center">
                       <a href="https://en.wikipedia.org/wiki/HTML5" target="blank"><img width="40" height="40" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a>
                       <a href="https://en.wikipedia.org/wiki/CSS" target="blank"><img width="40" height="40" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a>
                       <a href="https://www.javascript.com" target="blank"><img width="40" height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
